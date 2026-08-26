@@ -1,11 +1,6 @@
 # Food Demand Forecasting
 
-Here we have applied and compared multiple Time Series Models to get the best one to forecast food demand
-Then use the forecast to create a useable dashboard to use the forecast for alarming OOS weeks and when to upstock
-
-The data is taken from kaggle dataset: https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting?select=train.csv
-
-Here is the problem statement and data description as described in the kaggle problem:
+This is the solution to Analytics Vidhya hackathon problem: https://www.analyticsvidhya.com/datahack/contest/genpact-machine-learning-hackathon-1/
 
 ## Context
 
